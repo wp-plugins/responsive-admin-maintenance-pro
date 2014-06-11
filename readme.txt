@@ -30,6 +30,10 @@ Create stylish Coming Soon or Maintenance Mode page. Work on your site while vis
 *   BuddyPress Supported
 *   Woo-Commerce Supported
 
+
+<iframe width="100%" height="315" src="//www.youtube.com/embed/iRMjYPdtPPY" frameborder="0" allowfullscreen></iframe>
+
+
 ### Our Online Presence:
 
 *   <a href="http://facebook.com/groups/freelancingcare">Facebook Group</a>
@@ -37,8 +41,8 @@ Create stylish Coming Soon or Maintenance Mode page. Work on your site while vis
 *   <a href="http://freelancingcare.com">Global Forum</a>
 *   <a href="http://designingmarket.com">Our Marketplace</a>
 
-<h4>We are giving that pro plugin absolutely free for commercial use. <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=MUTBMTPKTF76Q&lc=US&item_name=Responsive%20Admin%20Maintanence%20Pro%20Plugin&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted">Give a cup of tea</a> for our team </h4>
-
+<h4>We are giving that pro plugin absolutely free for commercial use. If you wanna say thanks to us, Simple press the Donate button bellow. We will be grateful to you!</h4>
+<p> <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=MUTBMTPKTF76Q&lc=US&item_name=Responsive%20Admin%20Maintanence%20Pro%20Plugin&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted"><img src="https://dl.dropboxusercontent.com/u/159791003/donate.png" /></a></p>
 == Installation ==
 
 = Using The WordPress Dashboard =
