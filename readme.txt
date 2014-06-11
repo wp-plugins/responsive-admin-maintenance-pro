@@ -30,7 +30,7 @@ Create stylish Coming Soon or Maintenance Mode page. Work on your site while vis
 *   BuddyPress Supported
 *   Woo-Commerce Supported
 
-Live Preview Video : https://www.youtube.com/watch?v=iRMjYPdtPPY
+[youtube https://www.youtube.com/watch?v=iRMjYPdtPPY]
 
 
 
