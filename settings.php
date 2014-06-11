@@ -12,7 +12,7 @@ function fcwebmaintenance()
         'administrator',
         'fcwebmaintenance_option',
         'fcwebmaintenance_option_page',
-        plugins_url('../images/logoicon.png', __FILE__),
+        plugins_url('/images/logoicon.png', __FILE__),
         100
     );
 }
