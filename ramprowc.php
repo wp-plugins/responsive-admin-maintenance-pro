@@ -5,8 +5,8 @@ Plugin URI: http://freelancingcare.com
 Description: Make your own Schedule Maintenance Page, Coming Soon Page, Under Construction Page by using that plugin.
 Author: Freelancing Care
 Author URI: https://profiles.wordpress.org/nirob19
-License: TF
-Version: 1.0
+License: Md Nurullah
+Version: 2.0
 */
 
 define( 'RAMPROWC_PLUGIN_DIR', trailingslashit( plugin_dir_path( __FILE__ ) ) );
