@@ -2,7 +2,7 @@
 /*
 Plugin Name: Responsive Admin Maintenance Pro With Countdown
 Plugin URI: http://freelancingcare.com
-Description: At first activate that plugin and set your estimate maintenance over time in setting page. Your website visitor will see the maintenance page now. You can On/Off that too
+Description: Make your own Schedule Maintenance Page, Coming Soon Page, Under Construction Page by using that plugin.
 Author: Freelancing Care
 Author URI: https://profiles.wordpress.org/nirob19
 License: TF
