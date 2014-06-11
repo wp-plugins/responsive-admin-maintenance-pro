@@ -83,6 +83,11 @@ Yes, You can, We added a youtube video background template style on the settings
 = 1.0 =
 * Stable version release.
 
+= 2.0 =
+* Reduce Plugin Size.
+* Optimized all the images.
+* Plugin Icon issue fixed.
+
 == Upgrade Notice ==
 
 = 1.0 =
