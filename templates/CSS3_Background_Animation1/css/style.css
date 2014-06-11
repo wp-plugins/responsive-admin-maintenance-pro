@@ -2713,7 +2713,7 @@ text-shadow: 2px 2px 2px #000000;
   position: absolute;
 }
 #galaxy .bg {
-  background: url('../../assets/img/bg.jpg') no-repeat 50% 50%;
+  background: url("../../assets/img/jumbotron-bg.jpg") no-repeat fixed center center / cover  #000000;
 }
 #galaxy .bg.center {
   top: 50%;
