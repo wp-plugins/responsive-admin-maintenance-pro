@@ -14,18 +14,18 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Create stylish Coming Soon or Maintenance Mode page. Work on your site while visitors see a "Coming Soon" or "Maintenance Mode" page.
 
-### Features List:
+### Features List: (100% Free)
 	
-*   Works with any WordPress Theme
-*   Works with any WordPress Version
 *   Fully Responsive Design
-*   Customize the Text
+*   Customizable Text
 *   Easy Settings & Customization
 *   Easy and user-friendly setup
 *   6 different style maintenance /coming soon template
 *   Access controls (Restrict By User Role)
 *   Social & Contact integration (Facebook, Tweeter, Google+, Phone, Email)
 *   Uses HTML5 &amp; CSS3
+*   Works with any WordPress Theme
+*   Works with any WordPress Version
 *   Wordpress Multisite Supported
 *   BuddyPress Supported
 *   Woo-Commerce Supported
