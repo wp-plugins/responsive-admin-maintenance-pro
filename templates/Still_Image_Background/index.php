@@ -26,7 +26,7 @@ $mess_arr = get_custom_page_data();
 	<link href='http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:300' rel='stylesheet' type='text/css'>
     <!-- JS -->
     <!--<script src="http://code.jquery.com/jquery-latest.js"></script>-->
-    <!--<script src="http://localhost:81/jquery/jquery.min.js"></script>-->
+
     <?php do_action('options_style'); ?>
 
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -36,7 +36,7 @@ $mess_arr = get_custom_page_data();
     <![endif]-->
 
     <!-- Modernizr Scripts -->
-	<?php	echo '<script type="text/javascript" src="' . plugins_url( 'js/modernizr-2.7.1.min.js' , __FILE__ ) . ' "></script> ';	?>
+	<?php	echo '<script type="text/javascript" src="' . plugins_url( '../assets/js/modernizr-2.7.1.min.js' , __FILE__ ) . ' "></script> ';	?>
 	<script>
 	
 		jQuery(document).ready(function(){
@@ -125,6 +125,6 @@ $mess_arr = get_custom_page_data();
 
     </div> <!-- /.jumbotron -->
     <!-- Placed at the end of the document so the pages load faster -->
-	<?php	echo '<script type="text/javascript" src="' . plugins_url( 'js/bootstrap.min.js' , __FILE__ ) . ' "></script> ';	?>	
+	<?php	echo '<script type="text/javascript" src="' . plugins_url( '../assets/js/bootstrap.min.js' , __FILE__ ) . ' "></script> ';	?>	
   </body>
 </html>

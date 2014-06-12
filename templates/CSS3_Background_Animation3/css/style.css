@@ -6,7 +6,7 @@ html {
 
 body {
   margin: 0;
-  background: url("../images/jumbotron-bg.jpg") no-repeat fixed center center / cover  #000000;
+  background: url("../../assets/img/jumbotron-bg.jpg") no-repeat fixed center center / cover  #000000;
   background-size: cover;  }
 
 article,
@@ -2713,7 +2713,7 @@ text-shadow: 2px 2px 2px #000000;
   position: absolute;
 }
 #galaxy .bg {
-  background: url('../img/bg.jpg') no-repeat 50% 50%;
+  background: url('../../assets/img/bg.jpg') no-repeat 50% 50%;
 }
 #galaxy .bg.center {
   top: 50%;
@@ -2733,7 +2733,7 @@ text-shadow: 2px 2px 2px #000000;
   height: 200%;
 }
 #galaxy .stars-back {
-  background: url('../img/back.png');
+  background: url('../../assets/img/back.png');
   -webkit-animation: orbit-clock-wise 440s infinite linear;
   -moz-animation: orbit-clock-wise 440s infinite linear;
   -o-animation: orbit-clock-wise 440s infinite linear;
@@ -2741,7 +2741,7 @@ text-shadow: 2px 2px 2px #000000;
   animation: orbit-clock-wise 440s infinite linear;
 }
 #galaxy .stars-middle {
-  background: url('../img/middle.png');
+  background: url('../../assets/img/middle.png');
   -webkit-animation: orbit-counter-clock-wise 360s infinite linear;
   -moz-animation: orbit-counter-clock-wise 360s infinite linear;
   -o-animation: orbit-counter-clock-wise 360s infinite linear;
@@ -2749,7 +2749,7 @@ text-shadow: 2px 2px 2px #000000;
   animation: orbit-counter-clock-wise 360s infinite linear;
 }
 #galaxy .stars-front {
-  background: url('../img/front.png');
+  background: url('../../assets/img/front.png');
   -webkit-animation: orbit-clock-wise 160s infinite linear;
   -moz-animation: orbit-clock-wise 160s infinite linear;
   -ms-animation: orbit-clock-wise 160s infinite linear;

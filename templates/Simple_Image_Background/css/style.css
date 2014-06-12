@@ -6,7 +6,7 @@
 
 html {
     min-height: 100%;
-    background: #C07B3A url('../img/bg.jpg') 100% 100% no-repeat;
+    background: #C07B3A url('../../assets/img/bg_simple_background.jpg') 100% 100% no-repeat;
     -webkit-background-size: cover;
     background-size: cover;
 }
@@ -243,7 +243,7 @@ body {
 
 @media (max-width: 979px) {
     html {
-        background: #C07B3A url('../img/bg.jpg') 100% 100% no-repeat;
+        background: #C07B3A url('../../assets/img/bg_simple_background.jpg') 100% 100% no-repeat;
 
         -webkit-background-size: cover;
         background-size: cover;

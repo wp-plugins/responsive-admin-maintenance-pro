@@ -16,14 +16,13 @@ $mess_arr = get_custom_page_data();
 
     <!-- JS -->
     <!--<script src="http://code.jquery.com/jquery-latest.js"></script>-->
-    <!--<script src="http://localhost:81/jquery/jquery.min.js"></script>-->
     <?php do_action('options_style'); ?>
 
     <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
         <!-- Bootstrap stylesheets -->
-        <?php echo '<link href="' . plugins_url( 'css/bootstrap.min.css' , __FILE__ ) . '" rel="stylesheet" type="text/css"  /> '; ?>
+        <?php echo '<link href="' . plugins_url( '../assets/css/bootstrap.min.css' , __FILE__ ) . '" rel="stylesheet" type="text/css"  /> '; ?>
 		
 
         <!-- Template stylesheet -->

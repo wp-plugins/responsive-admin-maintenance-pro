@@ -30,6 +30,10 @@ Create stylish Coming Soon or Maintenance Mode page. Work on your site while vis
 *   BuddyPress Supported
 *   Woo-Commerce Supported
 
+[youtube https://www.youtube.com/watch?v=iRMjYPdtPPY]
+
+
+
 ### Our Online Presence:
 
 *   <a href="http://facebook.com/groups/freelancingcare">Facebook Group</a>
@@ -37,7 +41,8 @@ Create stylish Coming Soon or Maintenance Mode page. Work on your site while vis
 *   <a href="http://freelancingcare.com">Global Forum</a>
 *   <a href="http://designingmarket.com">Our Marketplace</a>
 
-<h4>We are giving that pro plugin absolutely free for commercial use. <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=MUTBMTPKTF76Q&lc=US&item_name=Responsive%20Admin%20Maintanence%20Pro%20Plugin&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted">Give a cup of tea</a> for our team </h4>
+<h4>We are giving that pro plugin absolutely free for commercial use. If you wanna say thanks to us, <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=MUTBMTPKTF76Q&lc=US&item_name=Responsive%20Admin%20Maintanence%20Pro%20Plugin&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted">Click here</a> to donate. We will be grateful to you!</h4>
+
 
 == Installation ==
 
@@ -82,6 +87,17 @@ Yes, You can, We added a youtube video background template style on the settings
 
 = 1.0 =
 * Stable version release.
+
+= 2.0 =
+* Reduce Plugin Size.
+* Optimized all the images.
+* Plugin Icon issue fixed.
+
+= 2.1 =
+* Reduce Plugin Size More.
+* Duplicate JS file deleted in template.
+* Duplicate image file deleted in template.
+
 
 == Upgrade Notice ==
 

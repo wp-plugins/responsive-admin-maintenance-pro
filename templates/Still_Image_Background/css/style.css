@@ -6,7 +6,7 @@ html {
 
 body {
   margin: 0;
-  background: url("../images/jumbotron-bg.jpg") no-repeat fixed center center / cover  #000000;
+  background: url("../../assets/img/jumbotron-bg.jpg") no-repeat fixed center center / cover  #000000;
   background-size: cover;  }
 
 article,
