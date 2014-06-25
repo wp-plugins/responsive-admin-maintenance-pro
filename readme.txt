@@ -43,7 +43,8 @@ Create stylish Coming Soon or Maintenance Mode page. Work on your site while vis
 *   <a href="http://designingmarket.com">Our Marketplace</a>
 
 <h4>We are giving that pro plugin absolutely free for commercial use. If you wanna say thanks to us, <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=MUTBMTPKTF76Q&lc=US&item_name=Responsive%20Admin%20Maintanence%20Pro%20Plugin&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted">Click here</a> to donate. We will be grateful to you!</h4>
-
+<br/><br/>
+<h2><a herf="mailto:nirob.std@gmail.com">Hire Me</a>for Wordpress related work</h2>
 
 == Installation ==
 
