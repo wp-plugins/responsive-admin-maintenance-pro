@@ -12,7 +12,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 == Description ==
 
 
-Create stylish Coming Soon or Maintenance Mode page. Work on your site while visitors see a "Coming Soon" or "Maintenance Mode" page.
+Create stylish Coming Soon or Maintenance Mode page. Work on your site while visitors see a "Coming Soon" or "Maintenance " page. On that plugin there have 6 different style responsive template with CSS3 animations, Youtube Background video and still image background. 
 
 ### Features List: (100% Free)
 	
