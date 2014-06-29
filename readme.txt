@@ -51,7 +51,7 @@ Create stylish Coming Soon or Maintenance Mode page. Work on your site while vis
 1. Navigate to the 'Add New' in the plugins dashboard
 2. Search for 'Responsive Admin Maintenance Pro With Countdown'
 3. Click 'Install Now'
-4. Activate the plugin on the Plugin dashboard
+4. Activate the plugin on the Plugin settings page
 
 = Uploading in WordPress Dashboard =
 
