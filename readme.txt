@@ -26,7 +26,7 @@ Create stylish Coming Soon or Maintenance Mode page. Work on your site while vis
 *   Uses HTML5 &amp; CSS3
 *   Works with any WordPress Theme
 *   Works with any WordPress Version
-*   Wordpress Multisite Supported
+*   Wordpress Multi-site Supported
 *   BuddyPress Supported
 *   Woo-Commerce Supported
 *   Full Free Plugin
@@ -51,7 +51,7 @@ Create stylish Coming Soon or Maintenance Mode page. Work on your site while vis
 1. Navigate to the 'Add New' in the plugins dashboard
 2. Search for 'Responsive Admin Maintenance Pro With Countdown'
 3. Click 'Install Now'
-4. Activate the plugin on the Plugin settings page
+4. Activate the plugin on the Plugins settings page
 
 = Uploading in WordPress Dashboard =
 
@@ -74,7 +74,7 @@ Yes. You can do that. You may use that as coming soon page too.
 
 Yes, Fully responsive in all major devices.
 
-= May i use Youtube video as the background of my maintanence page? =
+= May I use Youtube video as the background of my maintenance page? =
 
 Yes, You can, We added a youtube video background template style on the settings page.
 
