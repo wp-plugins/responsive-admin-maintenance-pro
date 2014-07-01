@@ -125,7 +125,7 @@ $mess_arr = get_custom_page_data();
           <div class="col-md-3"></div> <!-- /.col-md-3 -->
 
         </div> <!-- /.row -->
-
+  
       </div> <!-- /.custom-container -->
 
     </div> <!-- /.jumbotron -->
