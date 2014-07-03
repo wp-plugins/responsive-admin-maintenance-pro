@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=MUTBM
 Tags: admin maintenance, schedule maintenance, site maintenance, site construction, coming soon, countdown timer, FC, Freelancingcare, maintenance, mode, admin, administration, unavailable, construction, mantenimiento, wordpress maintenance mode, wordpress under construction, landing page, launch, launch page, maintenance, maintenance mode, newsletter, offline, unavailable, under construction, underconstruction, site offline
 Requires at least: 3.0.1
 Tested up to: 3.9
-Stable tag: 2.1
+Stable tag: 3.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
