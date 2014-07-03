@@ -329,9 +329,11 @@ z-index: 6;" name="settings" action="" method="post">
   <div class="panel panel-default panel-info">
    <div class="panel-heading">Save Your Settings </div>
   <div class="panel-body">
-
       <div class="form-group">
-    <label for="#" class="col-sm-10 control-label">   <p><span style="">(After press "Save Settings" Open a new private window or different browser to check the site as maintenance mode.)</span></p></label>
+    <label for="#" class="col-sm-8 control-label">   <p><span style="color: #7c909a;font-size: 13px;font-weight: normal;">After "Save Settings" Open a new private window or different browser to check the site as maintenance mode</span></p></label>    
+	<label for="#" class="col-sm-2 "> 
+	<a class="btn btn-success" href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=MUTBMTPKTF76Q&lc=US&item_name=Responsive%20Admin%20Maintanence%20Pro%20Plugin&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted" role="button"> Donate Me Coffee</a>
+	</label>
     <div class="col-sm-2"><input type="SUBMIT" id="SaveSettings" name="SaveSettings" value="Save Settings" class="btn btn-primary" />
     </div>
   </div> 
