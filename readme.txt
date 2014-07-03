@@ -111,4 +111,23 @@ Yes, You can, We added a youtube video background template style on the settings
 == Upgrade Notice ==
 
 = 3.0 =
-Updated
+* Reduced Plugin Size More.
+* Minified Template CSS.
+* Activation Bug Fixed
+* Bootstrap Support For Settings Page
+* Mobile, Tablet, iPhone responsive admin Settings page
+* Fully Responsive Front-end and Back-end UI
+* More Easy User interface
+
+= 2.1 =
+* Reduced Plugin Size More.
+* Duplicate JS file deleted in template.
+* Duplicate image file deleted in template.
+
+= 2.0 =
+* Reduced Plugin Size.
+* Optimized all the images.
+* Plugin Icon issue fixed.
+
+= 1.0 =
+Stable version release
