@@ -101,5 +101,5 @@ Yes, You can, We added a youtube video background template style on the settings
 
 == Upgrade Notice ==
 
-= 1.0 =
+= 3.0 =
 Updated
