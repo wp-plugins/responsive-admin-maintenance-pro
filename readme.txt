@@ -24,6 +24,7 @@ Create stylish Coming Soon or Maintenance Mode page. Work on your site while vis
 *   Access controls (Restrict By User Role)
 *   Social & Contact integration (Facebook, Tweeter, Google+, Phone, Email)
 *   Uses HTML5 &amp; CSS3
+*   Responsive Admin Panel
 *   Works with any WordPress Theme
 *   Works with any WordPress Version
 *   Wordpress Multi-site Supported
