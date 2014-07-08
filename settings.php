@@ -24,7 +24,7 @@ function fcwebmaintenance_option_page()
     $roles = $wp_roles->get_names();
 
     $fcwebSettings['pageTitle'] = "Website Under Maintenance";
-    $fcwebSettings['companyName'] = "<?php get_bloginfo( 'name' );?>";
+    $fcwebSettings['companyName'] = "Company Name";
     $fcwebSettings['message'] = "We are doing a schedule maintenance";
     $fcwebSettings['template'] = "Under Maintenance";
     $fcwebSettings['year'] = "2020";
