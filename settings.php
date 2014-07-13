@@ -379,17 +379,17 @@ z-index: 6;" name="settings" action="" method="post">
   </div> 
      <div class="form-group">
     <label for="facebookLink" class="col-sm-2 control-label">Facebook URL</label>
-    <div class="col-sm-10"><input type="text" class="form-control" placeholder="www.facebook.com/Freelancingcare"  name="facebookLink" id="facebookLink" value=\'' . $fcwebSettings['facebookLink'] . '\' />
+    <div class="col-sm-10"><input type="text" class="form-control" placeholder="http://facebook.com/Freelancingcare"  name="facebookLink" id="facebookLink" value=\'' . $fcwebSettings['facebookLink'] . '\' />
     </div>
   </div>  
      <div class="form-group">
     <label for="twitterLink" class="col-sm-2 control-label">Twitter URL</label>
-    <div class="col-sm-10"><input type="text" class="form-control" placeholder="www.twitter.com/Freelancingcare"  name="twitterLink" id="twitterLink" value=\'' . $fcwebSettings['twitterLink'] . '\' />
+    <div class="col-sm-10"><input type="text" class="form-control" placeholder="http://twitter.com/Freelancingcare"  name="twitterLink" id="twitterLink" value=\'' . $fcwebSettings['twitterLink'] . '\' />
     </div>
   </div> 
       <div class="form-group">
     <label for="googleLink" class="col-sm-2 control-label">Google+ URL</label>
-    <div class="col-sm-10"><input type="text" class="form-control" placeholder="www.google.com/+Freelancingcare"  name="googleLink" id="googleLink" value=\'' . $fcwebSettings['googleLink'] . '\' />
+    <div class="col-sm-10"><input type="text" class="form-control" placeholder="http://google.com/+Freelancingcare"  name="googleLink" id="googleLink" value=\'' . $fcwebSettings['googleLink'] . '\' />
     </div>
   </div> 
 
@@ -433,6 +433,11 @@ z-index: 6;" name="settings" action="" method="post">
 	<label for="#" class="col-sm-2 "> <a class="btn btn-success" href="http://freelancingcare.com" role="button"> Our Website</a>
 	</label>	
 
+			
+	<label for="#" class="col-sm-2 "> <a class="btn btn-success" href="http://youtube.com/user/Tutorialtubes" role="button"> Free Tutorials</a>
+	</label>	
+
+		
 		
 	<label for="#" class="col-sm-2 "> <a class="btn btn-success" href="http://fastesthosting.net/" role="button"> Get Hosting</a>
 	</label>	
