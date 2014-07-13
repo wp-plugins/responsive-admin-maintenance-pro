@@ -35,7 +35,7 @@ Create stylish Coming Soon or Maintenance Mode page. Work on your site while vis
 *   Woo-Commerce Supported
 *   Full Free Plugin
 
-[youtube https://www.youtube.com/watch?v=iRMjYPdtPPY]
+[youtube https://www.youtube.com/watch?v=GPuuTIOtERQ]
 
 
 
