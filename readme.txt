@@ -111,8 +111,19 @@ Yes, You can, We added a youtube video background template style on the settings
 * Fully Responsive Front-end and Back-end UI
 * More Easy User interface
 
+= 4.0 =
+* Video ID change option for Youtube_Video_Template Style
+* Add Your Own Company Logo (Optional)
+* Turn On/Off Social Details Area (Optional)
+* Turn On/Off Countdown Timer Area (Optional)
 
 == Upgrade Notice ==
+
+= 4.0 =
+* Video ID change option for Youtube_Video_Template Style
+* Add Your Own Company Logo (Optional)
+* Turn On/Off Social Details Area (Optional)
+* Turn On/Off Countdown Timer Area (Optional)
 
 = 3.0 =
 * Reduced Plugin Size More.
