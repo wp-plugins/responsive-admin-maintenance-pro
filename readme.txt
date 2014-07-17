@@ -14,7 +14,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Create stylish Coming Soon or Maintenance Mode page. Work on your site while visitors see a "Coming Soon" or "Maintenance " page. On that plugin there have 6 different style responsive template with CSS3 animations, Youtube Background video and still image background. 
 
-### Features List: (100% Free)
+### Features List : (100% Free)
 	
 *   Fully Responsive Design
 *   Customizable Text
@@ -80,7 +80,7 @@ Yes, Fully responsive in all major devices.
 
 = May I use Youtube video as the background of my maintenance page? =
 
-Yes, You can, We added a youtube video background template style on the settings page.
+Yes, You can, We added a Youtube video background template style on the settings page.
 
 == Screenshots ==
 
