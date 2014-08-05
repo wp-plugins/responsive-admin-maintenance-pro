@@ -7,7 +7,7 @@ Author: Freelancing Care
 Author URI: http://designingmarket.com
 License: GPL2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Version: 4.0
+Version: 4.1
 */
 
 define( 'RAMPROWC_PLUGIN_DIR', trailingslashit( plugin_dir_path( __FILE__ ) ) );
