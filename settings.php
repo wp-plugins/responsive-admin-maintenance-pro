@@ -439,7 +439,7 @@ z-index: 6;" name="settings" action="" method="post">
 
 		
 		
-	<label for="#" class="col-sm-2 "> <a class="btn btn-success" href="http://fastesthosting.net/" role="button"> Get Hosting</a>
+	<label for="#" class="col-sm-2 "> <a class="btn btn-success" href="http://www.bluehost.com/track/freelancingcare" role="button"> Get Hosting</a>
 	</label>	
 
 	
