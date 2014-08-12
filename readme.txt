@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: nirob.19
+Contributors: nirob.19, shanespinuzzi
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=MUTBMTPKTF76Q&lc=US&item_name=Responsive%20Admin%20Maintanence%20Pro%20Plugin&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
 Tags: admin maintenance, schedule maintenance, site maintenance, site construction, coming soon, countdown timer, FC, Freelancingcare, maintenance, mode, admin, administration, unavailable, construction, mantenimiento, wordpress maintenance mode, wordpress under construction, landing page, launch, launch page, maintenance, maintenance mode, newsletter, offline, unavailable, under construction, underconstruction, site offline, contact details, social link
 Requires at least: 3.0.1
