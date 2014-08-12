@@ -14,7 +14,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Create stylish Coming Soon or Maintenance Mode page. Work on your site while visitors see a "Coming Soon" or "Maintenance " page. On that plugin there have 6 different style responsive template with CSS3 animations, Youtube Background video and still image background template. 
 
-<h4><a href="https://github.com/freelancingcare/Responsive-Admin-Maintenance-Pro">Contribute with us in Github</a> to make that plugin more better.</h4>
+<h4><a href="https://github.com/freelancingcare/Responsive-Admin-Maintenance-Pro">Contribute with us in Github</a> to make this plugin more better.</h4>
 
 ### Features List : (100% Free)
 	
