@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: Responsive Admin Maintenance Pro With Countdown
+Plugin Name: Responsive Maintenance Pro With Countdown
 Plugin URI: http://freelancingcare.com
 Description: Make your own Schedule Maintenance Page, Coming Soon Page, Under Construction Page by using that plugin.
 Author: Freelancing Care
-Author URI: http://designingmarket.com
+Author URI: https://github.com/fc-project/Responsive-Maintenance-Pro-With-Countdown
 License: GPL2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 Version: 4.1
