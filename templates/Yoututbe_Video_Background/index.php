@@ -69,6 +69,7 @@ $mess_arr = get_custom_page_data();
 
         <!-- Title -->
         <h1><?php echo $mess_arr['companyName']; ?></h1>
+       <img class="fc_logo_image" src="<?php echo $mess_arr['companylogo']; ?>" alt="" />
 
         <!-- Description -->
         <p><?php echo $mess_arr['message']; ?></p>
