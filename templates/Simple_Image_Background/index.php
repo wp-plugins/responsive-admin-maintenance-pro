@@ -51,6 +51,8 @@ $mess_arr = get_custom_page_data();
         <div class="container">
             <!-- Page heading -->
             <h1 class="page-heading"><?php echo $mess_arr['companyName']; ?></h1>
+ <img class="fc_logo_image" src="<?php echo $mess_arr['companylogo']; ?>" alt="" />
+
             <!-- /Page heading -->
 
             <!-- Description -->
