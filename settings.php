@@ -15,7 +15,143 @@ function fcwebmaintenance()
         plugins_url('/images/logoicon.png', __FILE__),
         100
     );
+	// Plugin Submenu Item
+	add_submenu_page( 'fcwebmaintenance_option', 
+		'Template Preview', 
+		'Template Preview',
+		'administrator', 
+		'fcwebmaintenance_option_template',
+		'fcwebmaintenance_option_template_page'
+	); 
+
+	// Plugin Submenu Item
+	add_submenu_page( 'fcwebmaintenance_option', 
+		'Documentation', 
+		'Documentation',
+		'administrator', 
+		'fcwebmaintenance_option_doc',
+		'fcwebmaintenance_option_doc_page'
+	); 
+	
+	// Plugin Submenu Item
+	add_submenu_page( 'fcwebmaintenance_option', 
+		'Meet The Author', 
+		'Meet The Author',
+		'administrator', 
+		'fcwebmaintenance_option_meet',
+		'fcwebmaintenance_option_meet_page'
+	); 
+	
 }
+function fcwebmaintenance_option_template_page()
+{
+    $adminBody = '';
+    echo $adminBody;
+}
+
+function fcwebmaintenance_option_doc_page()
+{
+    $adminBody = '<div style="background-color:#fff"  class="container">
+    	<div class="row">
+					<div class="col-md-12">
+			<h3>General Settings</h3>
+			<p style="font-size: 16px;font-weight: normal;line-height: 33px;width: 100%;">
+			Plugin Switch: You can turn on/off your plugin from the site <br/>
+<strong style="color:#ff4000">Page Title: </strong> Write the page title for your maintenance or coming soon page. It will appear in browser as website title.<br/>
+<strong style="color:#ff4000">Company Name:</strong> Write the Company Name as text logo<br/>
+<strong>Company Logo Link:</strong> You may put the direct logo link here to show in your template<br/>
+<strong style="color:#ff4000">Maintenance Note/Message:</strong> Write a short message here<br/>
+<strong style="color:#ff4000">Style:</strong> Choose any style from there<br/>
+<strong style="color:#ff4000">Video ID</strong> For Youtbe_Video_Background Template: If you choose Youtube_Video_Background style then there have option for you to change the youtube background video. Just put the video id there and it will appear on your website homepage.<br/>
+<strong style="color:#ff4000">Social Area Display: </strong>If you want to show the social icons in your coming soon or maintenance page then select "block" and if you want to hide that part then select "none"<br/>
+<strong style="color:#ff4000">Countdown Display: </strong>If you want to show Countdown timer in your coming soon or maintenance page then select "block" and if you want to hide that part then select "none"<br/>
+		</p>
+		<br /><br />
+<h3>Access Control Settings</h3>
+<p style="font-size: 16px;font-weight: normal;line-height: 33px;width: 100%;">
+You can deny the roles for the site from here. Just select the option from here and save your settings. To check the result you must logout or try with different browser because logged in yoru will always able to see the webisite and can able to make necessary changes from dashboard.
+</p><br /><br />
+
+<h3>Countdown Settings</h3>
+<p style="font-size: 16px;font-weight: normal;line-height: 33px;width: 100%;">
+That is most important part! Add your time when your site will be live or maintenance will over. Show that estimate time there. It will work as countdown timer for visitors.
+</p>
+<br /><br />
+
+<h3>Contact Details Settings</h3>
+<p style="font-size: 16px;font-weight: normal;line-height: 33px;width: 100%;">
+Add your own social profile link and contact mail address there.
+</p>
+		</div>
+			
+
+
+    	</div>
+    </div>';
+    echo $adminBody;
+}
+
+
+function fcwebmaintenance_option_meet_page()
+{
+    $adminBody = '<div style="background-color:#fff"  class="container">
+    	<div class="row">
+					<div class="col-md-12">
+			<div style="background: none repeat scroll 0 0 #fafafa;margin-top: 2%;" class="jumbotron">
+  <h1>Md Nurullah Here!</h1>
+  <p>I am very thankful to you for using my plugin. </p>
+  <p><a class="btn btn-primary btn-lg" href="mailto:nirob.std@gmail.com" role="button">Hire Me Now</a></p>
+</div>
+		</div>
+			<div class="col-md-4"><h3>About me</h3>
+				<p style="text-align:justify">I am a full time professional freelancer and proficient with Wordpress, Zen Cart, HTML5, CSS3, PHP, jQuery, Bootstrap 3, Custom wordpress theme development etc. I have well experience on Website Design and development according to my client\'s requirements. I completed a lot of web design and development project successfully with 100% client satisfaction.</p><div class="clearfix"></div>
+			
+			</div>
+			<div class="col-md-4"><h3>Contact Info</h3>
+				<p>Email : <a href="mailto:nirob.std@gmail.com">nirob.std@gmail.com</a>
+				<br/>
+				Fanpage : <a target="_blank"  href="https://www.facebook.com/nurullah.fc">www.facebook.com/nurullah.fc</a>	
+<br/>
+				Group : <a target="_blank"  href="https://www.facebook.com/groups/freelancingcare">Freelancing Care</a><br/>Marketplace : <a target="_blank"  href="http://www.designingmarket.com">Designing Market</a><br/>
+				Blog : <a target="_blank"  href="http://www.tipstolearn.com">Tips To Learn</a><br/>
+				</p><div class="clearfix"></div>
+				
+			</div>
+			<div class="col-md-4">
+				<h3>My Skills</h3>
+				<div class="progress">
+  <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="40" aria-valuemin="0" aria-valuemax="100" style="width: 95%">
+    HTML5
+  </div>
+</div>
+<div class="progress">
+  <div class="progress-bar progress-bar-info" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100" style="width: 95%">
+    CSS3
+  </div>
+</div>
+<div class="progress">
+  <div class="progress-bar progress-bar-warning" role="progressbar" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100" style="width: 95%">
+    Wordpress
+  </div>
+</div>
+<div class="progress">
+  <div class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100" style="width: 99%">
+    Twitter Bootstrap
+  </div>
+</div>
+
+			</div>
+		<div class="clearfix"></div>
+		<br/><br/><br/><br/>
+
+			<div class="col-md-12">				
+				<div class="alert alert-success" role="alert">If you need any support regarding that plugin, you may feel free ask to <a target="_blank" href="https://wordpress.org/support/plugin/responsive-admin-maintenance-pro">Plugin Support Forum</a></div>
+			</div>
+    	</div>
+    </div>';
+    echo $adminBody;
+}
+
 
 
 // ADMIN VALUE
@@ -26,7 +162,7 @@ function fcwebmaintenance_option_page()
 
     $fcwebSettings['pageTitle'] = "Website Under Maintenance";
     $fcwebSettings['companyName'] = "Company Name";
-    $fcwebSettings['companylogo'] = "https://1.s3.envato.com/files/70926396/Untitled-1.png";
+    $fcwebSettings['companylogo'] = "http://freelancingcare.com/wp-content/uploads/2014/09/site_logo.png";
     $fcwebSettings['message'] = "We are doing a schedule maintenance";
     $fcwebSettings['template'] = "Under Maintenance";
     $fcwebSettings['youtubeid'] = "QNZOOSxfQn8";

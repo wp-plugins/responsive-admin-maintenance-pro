@@ -6,7 +6,7 @@ Description: Make your own Schedule Maintenance Page, Coming Soon Page, Under Co
 Author: Freelancing Care
 Author URI: https://profiles.wordpress.org/nirob19
 License: Md Nurullah
-Version: 3.0
+Version: 4.2
 */
 
 define( 'RAMPROWC_PLUGIN_DIR', trailingslashit( plugin_dir_path( __FILE__ ) ) );
