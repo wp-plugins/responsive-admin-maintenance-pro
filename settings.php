@@ -45,7 +45,9 @@ function fcwebmaintenance()
 }
 function fcwebmaintenance_option_template_page()
 {
-    $adminBody = '';
+    $adminBody = '<h3>Template Preview Feature add on our next version 4.3</h3>
+	
+	';
     echo $adminBody;
 }
 
