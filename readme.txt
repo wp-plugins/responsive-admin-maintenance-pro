@@ -1,5 +1,5 @@
 === Plugin Name ===
-Contributors: nirob.19, shanespinuzzi
+Contributors: nirob.19
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=MUTBMTPKTF76Q&lc=US&item_name=Responsive%20Admin%20Maintanence%20Pro%20Plugin&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
 Tags: admin maintenance, schedule maintenance, site maintenance, site construction, coming soon, countdown timer, FC, Freelancingcare, maintenance, mode, admin, administration, unavailable, construction, mantenimiento, wordpress maintenance mode, wordpress under construction, landing page, launch, launch page, maintenance, maintenance mode, newsletter, offline, unavailable, under construction, underconstruction, site offline, contact details, social link
 Requires at least: 3.0.1
@@ -87,22 +87,29 @@ Yes, You can, We added a Youtube video background template style on the settings
 == Screenshots ==
 
 1. Settings Page
-2. Choose Your Maintenance Template
+2. Settings Page
 
 == Changelog ==
 
-= 1.0 =
-* Stable version release.
+= 4.2 =
+* Blog link added to logo and company name in every template
+* Contdown timer function improvement
+* Help, Screen option button now working
+* All kinds of conflict issue fixed
+* Documentation menu page added in plugin 
+* Meed the author menu page added in plugin
+* Template preview page added for next version
+* Telephone link improve for all mobile device
+* All kinds of support bug fixed
 
-= 2.0 =
-* Reduced Plugin Size.
-* Optimized all the images.
-* Plugin Icon issue fixed.
+= 4.1 =
+* Social Link issue fixed
 
-= 2.1 =
-* Reduced Plugin Size More.
-* Duplicate JS file deleted in template.
-* Duplicate image file deleted in template.
+= 4.0 =
+* Video ID change option for Youtube_Video_Template Style
+* Add Your Own Company Logo (Optional)
+* Turn On/Off Social Details Area (Optional)
+* Turn On/Off Countdown Timer Area (Optional)
 
 = 3.0 =
 * Reduced Plugin Size More.
@@ -113,16 +120,31 @@ Yes, You can, We added a Youtube video background template style on the settings
 * Fully Responsive Front-end and Back-end UI
 * More Easy User interface
 
-= 4.0 =
-* Video ID change option for Youtube_Video_Template Style
-* Add Your Own Company Logo (Optional)
-* Turn On/Off Social Details Area (Optional)
-* Turn On/Off Countdown Timer Area (Optional)
+= 2.1 =
+* Reduced Plugin Size More.
+* Duplicate JS file deleted in template.
+* Duplicate image file deleted in template.
 
-= 4.1 =
-* Social Link issue fixed
+= 2.0 =
+* Reduced Plugin Size.
+* Optimized all the images.
+* Plugin Icon issue fixed.
+
+= 1.0 =
+Stable version release
 
 == Upgrade Notice ==
+
+= 4.2 =
+* Blog link added to logo and company name in every template
+* Contdown timer function improvement
+* Help, Screen option button now working
+* All kinds of conflict issue fixed
+* Documentation menu page added in plugin 
+* Meed the author menu page added in plugin
+* Template preview page added for next version
+* Telephone link improve for all mobile device
+* All kinds of support bug fixed
 
 = 4.1 =
 * Social Link issue fixed
