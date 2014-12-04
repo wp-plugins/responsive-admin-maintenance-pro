@@ -51,6 +51,10 @@ $mess_arr = get_custom_page_data();
 		});
 	
 	</script> 
+	<style type="text/css">	
+	.fc_social_part {display:<?php echo $mess_arr['socialpartkey']; ?> }
+	#countdown {display:<?php echo $mess_arr['countdownpartkey']; ?> }
+	</style>
  </head>
   <body>
 <div id="animate-area">
@@ -60,7 +64,8 @@ $mess_arr = get_custom_page_data();
       <div class="container">
 
         <!-- Title -->
-        <h1><?php echo $mess_arr['companyName']; ?></h1>
+        <h1><a href="<?php bloginfo('url'); ?>"><?php echo $mess_arr['companyName']; ?></a></h1>
+       <a href="<?php bloginfo('url'); ?>"><img class="fc_logo_image" src="<?php echo $mess_arr['companylogo']; ?>" alt="" /></a>
 
         <!-- Description -->
         <p><?php echo $mess_arr['message']; ?></p>
@@ -102,7 +107,7 @@ $mess_arr = get_custom_page_data();
 
         <div class="row">
 
-      <div class="container">
+      <div class="container fc_social_part">
         <!-- Title -->
         <h2 class="title-contact">Get in touch!</h2>
 
@@ -113,7 +118,7 @@ $mess_arr = get_custom_page_data();
           <li><a href="<?php echo $mess_arr['facebookLink']; ?>"><i class="fa fa-facebook"></i></a></li>
           <li><a href="<?php echo $mess_arr['googleLink']; ?>"><i class="fa fa-google-plus"></i></a></li>
           <li><a href="mailto:<?php echo $mess_arr['contactEmail']; ?>"><i class="fa fa-envelope-o"></i></a></li>
-		  <li><a href="callto:<?php echo $mess_arr['contactNumber']; ?>"><i class="fa fa-phone"></i></a></li>
+		  <li><a href="tel:<?php echo $mess_arr['contactNumber']; ?>"><i class="fa fa-phone"></i></a></li>
 
         </ul> <!-- /.social-icons -->
       </div> <!-- /.container -->

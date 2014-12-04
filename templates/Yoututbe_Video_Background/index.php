@@ -49,13 +49,14 @@ $mess_arr = get_custom_page_data();
 			});
 		});
 	jQuery('document').ready(function() {
-	var options = { videoId: 'QNZOOSxfQn8', start: 0 }; // Youtube Video ID
+	var options = { videoId: '<?php echo $mess_arr['youtubeid']; ?>', start: 0 }; // Youtube Video ID
 	jQuery('.jumbotron').tubular(options);
 });
 	</script> 
 	
-	<style type="text/css">
-
+	<style type="text/css">	
+	.fc_social_part {display:<?php echo $mess_arr['socialpartkey']; ?> }
+	#countdown {display:<?php echo $mess_arr['countdownpartkey']; ?> }
 	</style>
  </head>
   <body>
@@ -68,6 +69,7 @@ $mess_arr = get_custom_page_data();
 
         <!-- Title -->
         <h1><?php echo $mess_arr['companyName']; ?></h1>
+       <img class="fc_logo_image" src="<?php echo $mess_arr['companylogo']; ?>" alt="" />
 
         <!-- Description -->
         <p><?php echo $mess_arr['message']; ?></p>
@@ -109,18 +111,18 @@ $mess_arr = get_custom_page_data();
 
         <div class="row">
 
-      <div class="container">
+      <div class="container fc_social_part">
         <!-- Title -->
         <h2 class="title-contact">Get in touch!</h2>
 
         <!-- Social Media -->
-        <ul class="social-icons">
+        <ul class="social-icons ">
 
           <li><a href="<?php echo $mess_arr['twitterLink']; ?>"><i class="fa fa-twitter"></i></a></li>
           <li><a href="<?php echo $mess_arr['facebookLink']; ?>"><i class="fa fa-facebook"></i></a></li>
           <li><a href="<?php echo $mess_arr['googleLink']; ?>"><i class="fa fa-google-plus"></i></a></li>
           <li><a href="mailto:<?php echo $mess_arr['contactEmail']; ?>"><i class="fa fa-envelope-o"></i></a></li>
-		  <li><a href="callto:<?php echo $mess_arr['contactNumber']; ?>"><i class="fa fa-phone"></i></a></li>
+		  <li><a href="tel:<?php echo $mess_arr['contactNumber']; ?>"><i class="fa fa-phone"></i></a></li>
 
         </ul> <!-- /.social-icons -->
       </div> <!-- /.container -->

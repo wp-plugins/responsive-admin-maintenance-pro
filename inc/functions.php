@@ -4,17 +4,36 @@ function add_custom_style_and_script() {
     global $wp_scripts;
 
     wp_register_style('_style', 	TEMPLATE_URL.'style.css');
-    wp_register_script( '_counter', 	TEMPLATE_URL.'js/countdown.js', 	   'jquery');
-
+    wp_register_script( '_counter', 	TEMPLATE_URL.'js/countdown.js', 'jquery');
 
     $wp_styles->do_items('_style');
+    $wp_styles->do_items('boot-css');
 
-    $wp_scripts->do_items('jquery');
+
     $wp_scripts->do_items('_counter');
 }
 add_action('options_style', 'add_custom_style_and_script');
 
 
+
+
+    /**
+     * Add stylesheet to the page
+     */
+    function safely_add_stylesheet() {
+        wp_enqueue_style( 'admin-page-css', plugins_url('adminpage.css', __FILE__) );
+        wp_enqueue_script( 'boot-js', plugins_url('bootstrap.min.js', __FILE__) );
+    }
+  add_action( 'admin_enqueue_scripts', 'safely_add_stylesheet' );
+
+
+
+
+	
+	
+
+
+	
 
 add_action('template_redirect', 'fcwebmaintenance_template_redirect');
 
@@ -85,6 +104,7 @@ function fcwebmaintenance_template_redirect(){
     }
 }
 
+
 function get_custom_page_data(){
     global $wp_roles;
     $roles = $wp_roles->get_names();
@@ -94,8 +114,12 @@ function get_custom_page_data(){
     if($chk == true){
         $fcwebSettings['pageTitle'] = $chk['pageTitle'];
         $fcwebSettings['companyName'] = $chk['companyName'];
+        $fcwebSettings['companylogo'] = $chk['companylogo'];
         $fcwebSettings['message'] = $chk['message'];
         $fcwebSettings['template'] = $chk['template'];
+        $fcwebSettings['youtubeid'] = $chk['youtubeid'];
+        $fcwebSettings['socialpartkey'] = $chk['socialpartkey'];
+        $fcwebSettings['countdownpartkey'] = $chk['countdownpartkey'];
         $fcwebSettings['year'] = $chk['year'];
         $fcwebSettings['month'] = $chk['month'];
         $fcwebSettings['day'] = $chk['day'];
