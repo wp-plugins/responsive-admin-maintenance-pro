@@ -91,7 +91,7 @@ Yes, You can, We added a youtube video background template style on the settings
 * Help, Screen option button now working
 * All kinds of conflict issue fixed
 * Documentation menu page added in plugin 
-* Meed the author menu page added in plugin
+* Meet the author menu page added in plugin
 * Template preview page added for next version
 * Telephone link improve for all mobile device
 * All kinds of support bug fixed
@@ -136,7 +136,7 @@ Stable version release
 * Help, Screen option button now working
 * All kinds of conflict issue fixed
 * Documentation menu page added in plugin 
-* Meed the author menu page added in plugin
+* Meet the author menu page added in plugin
 * Template preview page added for next version
 * Telephone link improve for all mobile device
 * All kinds of support bug fixed
