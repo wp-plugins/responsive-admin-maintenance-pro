@@ -4,17 +4,15 @@ function add_custom_style_and_script() {
     global $wp_scripts;
 
     wp_register_style('_style', 	TEMPLATE_URL.'style.css');
-    wp_register_script( '_counter', 	TEMPLATE_URL.'js/countdown.js', 'jquery');
+    wp_register_script( '_counter', 	TEMPLATE_URL.'js/countdown.js', 	   'jquery');
+
 
     $wp_styles->do_items('_style');
-    $wp_styles->do_items('boot-css');
 
-
+    $wp_scripts->do_items('jquery');
     $wp_scripts->do_items('_counter');
 }
 add_action('options_style', 'add_custom_style_and_script');
-
-
 
 
     /**
