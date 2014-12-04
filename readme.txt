@@ -85,21 +85,89 @@ Yes, You can, We added a youtube video background template style on the settings
 
 == Changelog ==
 
-= 1.0 =
-* Stable version release.
+= 4.2 =
+* Blog link added to logo and company name in every template
+* Contdown timer function improvement
+* Help, Screen option button now working
+* All kinds of conflict issue fixed
+* Documentation menu page added in plugin 
+* Meed the author menu page added in plugin
+* Template preview page added for next version
+* Telephone link improve for all mobile device
+* All kinds of support bug fixed
+
+= 4.1 =
+* Social Link issue fixed
+
+= 4.0 =
+* Video ID change option for Youtube_Video_Template Style
+* Add Your Own Company Logo (Optional)
+* Turn On/Off Social Details Area (Optional)
+* Turn On/Off Countdown Timer Area (Optional)
+
+= 3.0 =
+* Reduced Plugin Size More.
+* Minified Template CSS.
+* Activation Bug Fixed
+* Bootstrap Support For Settings Page
+* Mobile, Tablet, iPhone responsive admin Settings page
+* Fully Responsive Front-end and Back-end UI
+* More Easy User interface
+
+= 2.1 =
+* Reduced Plugin Size More.
+* Duplicate JS file deleted in template.
+* Duplicate image file deleted in template.
 
 = 2.0 =
-* Reduce Plugin Size.
+* Reduced Plugin Size.
 * Optimized all the images.
 * Plugin Icon issue fixed.
 
-= 2.1 =
-* Reduce Plugin Size More.
-* Duplicate JS file deleted in template.
-* Duplicate image file deleted in template.
+= 1.0 =
+Stable version release
 
 
 == Upgrade Notice ==
 
+= 4.2 =
+* Blog link added to logo and company name in every template
+* Contdown timer function improvement
+* Help, Screen option button now working
+* All kinds of conflict issue fixed
+* Documentation menu page added in plugin 
+* Meed the author menu page added in plugin
+* Template preview page added for next version
+* Telephone link improve for all mobile device
+* All kinds of support bug fixed
+
+= 4.1 =
+* Social Link issue fixed
+
+= 4.0 =
+* Video ID change option for Youtube_Video_Template Style
+* Add Your Own Company Logo (Optional)
+* Turn On/Off Social Details Area (Optional)
+* Turn On/Off Countdown Timer Area (Optional)
+
 = 3.0 =
-Updated
+* Reduced Plugin Size More.
+* Minified Template CSS.
+* Activation Bug Fixed
+* Bootstrap Support For Settings Page
+* Mobile, Tablet, iPhone responsive admin Settings page
+* Fully Responsive Front-end and Back-end UI
+* More Easy User interface
+
+= 2.1 =
+* Reduced Plugin Size More.
+* Duplicate JS file deleted in template.
+* Duplicate image file deleted in template.
+
+= 2.0 =
+* Reduced Plugin Size.
+* Optimized all the images.
+* Plugin Icon issue fixed.
+
+= 1.0 =
+Stable version release
