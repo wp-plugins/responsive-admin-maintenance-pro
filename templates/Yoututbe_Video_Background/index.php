@@ -122,7 +122,7 @@ $mess_arr = get_custom_page_data();
           <li><a href="<?php echo $mess_arr['facebookLink']; ?>"><i class="fa fa-facebook"></i></a></li>
           <li><a href="<?php echo $mess_arr['googleLink']; ?>"><i class="fa fa-google-plus"></i></a></li>
           <li><a href="mailto:<?php echo $mess_arr['contactEmail']; ?>"><i class="fa fa-envelope-o"></i></a></li>
-		  <li><a href="callto:<?php echo $mess_arr['contactNumber']; ?>"><i class="fa fa-phone"></i></a></li>
+		  <li><a href="tel:<?php echo $mess_arr['contactNumber']; ?>"><i class="fa fa-phone"></i></a></li>
 
         </ul> <!-- /.social-icons -->
       </div> <!-- /.container -->

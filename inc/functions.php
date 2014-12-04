@@ -4,28 +4,36 @@ function add_custom_style_and_script() {
     global $wp_scripts;
 
     wp_register_style('_style', 	TEMPLATE_URL.'style.css');
-    wp_register_script( '_counter', 	TEMPLATE_URL.'js/countdown.js', 	   'jquery');
-
+    wp_register_script( '_counter', 	TEMPLATE_URL.'js/countdown.js', 'jquery');
 
     $wp_styles->do_items('_style');
+    $wp_styles->do_items('boot-css');
 
-    $wp_scripts->do_items('jquery');
+
     $wp_scripts->do_items('_counter');
 }
 add_action('options_style', 'add_custom_style_and_script');
 
 
-// BOOTSTRAP SUPPORT & CUSTOM CSS FOR ADMIN PAGE
-function fc_admin_script(){
-wp_enqueue_style( 'script-name', plugins_url( '/inc/adminpage.css' , dirname(__FILE__) ) );
-echo '<link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">';
-echo '<link rel="javascript" type="text/javascript" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js">';
-}
-add_action( 'admin_head', 'fc_admin_script' );
+
+
+    /**
+     * Add stylesheet to the page
+     */
+    function safely_add_stylesheet() {
+        wp_enqueue_style( 'admin-page-css', plugins_url('adminpage.css', __FILE__) );
+        wp_enqueue_script( 'boot-js', plugins_url('bootstrap.min.js', __FILE__) );
+    }
+  add_action( 'admin_enqueue_scripts', 'safely_add_stylesheet' );
 
 
 
 
+	
+	
+
+
+	
 
 add_action('template_redirect', 'fcwebmaintenance_template_redirect');
 
