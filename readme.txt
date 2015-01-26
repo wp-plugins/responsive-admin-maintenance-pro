@@ -43,7 +43,7 @@ Create stylish Coming Soon or Maintenance Mode page. Work on your site while vis
 
 ### Our Online Presence:
 
-*   <a href="http://facebook.com/groups/freelancingcare">Facebook Group</a>
+
 *   <a href="http://facebook.com/freelancingcare">Facebook Page</a>
 *   <a href="http://freelancingcare.com">Global Forum</a>
 *   <a href="http://designingmarket.com">Our Marketplace</a>
