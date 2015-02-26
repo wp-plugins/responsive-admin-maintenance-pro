@@ -14,9 +14,9 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Create stylish Coming Soon or Maintenance Mode page. Work on your site while visitors see a "Coming Soon" or "Maintenance " page. On that plugin there have 6 different style responsive template with CSS3 animations, Youtube Background video and still image background template. 
 
-<h4>Get Premium Cooming Soon Plugin</h4>
-<a href="http://goo.gl/Kh7zmU">Coming Soon and Maintenance Mode </a><br/>
-<a href="http://goo.gl/ARyBBy">Instauro Maintenance / Coming Soon </a><br/>
+### Get Premium Cooming Soon Plugin
+*   <a href="http://goo.gl/Kh7zmU">Coming Soon and Maintenance Mode </a>
+*   <a href="http://goo.gl/ARyBBy">Instauro Maintenance / Coming Soon </a>
 
 
 ### Features List : (100% Free)
